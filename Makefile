@@ -1,2 +1,2 @@
 all:
-	zip -r login-on-private-page.zip login-on-private-page
+	zip -r release/login-on-private-page.zip login-on-private-page
